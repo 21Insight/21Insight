@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @21Insight
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-21Insight/21Insight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I'm Jose Manuel Cuervo Muñoz.
+- 👀 I'm interested in job opportunities in the field of software engineering and application development.
+- 🌱 I'm currently learning about the latest trends in software development technology and am committed to continuous learning.
+- 💞️ I'm looking to collaborate on exciting projects that challenge my skills and allow me to work as part of a team to create high-quality products.
+- 📫 You can reach me via email at [manuelmuoz1221@outlook.com](mailto:manuelmuoz1221@outlook.com) or connect with me on LinkedIn: [Jose Manuel Cuervo Muñoz](https://www.linkedin.com/in/j-cuervom/).
